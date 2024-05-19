@@ -1,0 +1,1 @@
+Vetores: Média pares.
